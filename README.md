@@ -1,16 +1,13 @@
 ### Hi there 👋
+# I'm Raj
 
-<!--
-**ghraj2001/ghraj2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently pursuing B.tech 2nd year Computer Science at Velgapudi Ramakrishna Sidhhartha Engineering college
+- 🌱 I’m currently learning 
+   - python and Data Structure 
+- 👯 I’m looking to collaborate on  
+  -   AI and ML
+- 💬 Ask me about: things related to computer sciences 
+- 📫 How to reach me: gudimetla2001raj@gmail.com 
+- 😄 Pronouns: Raj
+- ⚡ Fun fact:Distance between my home and college is same as from my college to home. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
